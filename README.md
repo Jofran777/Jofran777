@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ cachorro
+- 👋 Hi, I’m @ 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,4 +10,10 @@
 Jofran777/Jofran777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-hi,I'm @ cachorro 
+Hi, I' m @ Jofran 
+I'm interested in carro
+I'm currently leanrning laranja
+i'm looking to collaborate on coração
+How to reach me onibus
+pronouns: 
+funfact:...
